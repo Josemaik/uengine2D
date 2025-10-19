@@ -1,0 +1,17 @@
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\cmps\RenderComponent.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\RenderComponent.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\main.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\main.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\managers\AudioManager.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\AudioManager.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\managers\FontManager.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\FontManager.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\managers\GameEngine.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\GameEngine.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\managers\MapManager.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\MapManager.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\systems\AISystem.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\AISystem.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\systems\AnimationSystem.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\AnimationSystem.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\systems\CollisionSystem.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\CollisionSystem.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\systems\InputSystem.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\InputSystem.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\systems\LifeSystem.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\LifeSystem.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\systems\PhysicsSystem.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\PhysicsSystem.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\systems\RenderSystem.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\RenderSystem.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\utils\colliders\CircleCollider.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\CircleCollider.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\utils\colliders\PixelsCollider.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\PixelsCollider.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\src\utils\colliders\RectCollider.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\RectCollider.obj
+C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\pugixml.cpp;C:\Users\JOSE MANUEL\Desktop\UTAD\progra2d\game\project\programacion2d\Debug\pugixml.obj
